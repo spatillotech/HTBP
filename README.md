@@ -9,14 +9,15 @@
 ## Week 1
 
 ### Lab 1 (Session 1)
-**Grade:** ___ / ___  
+**Grade:** 10 / 10  
 **Comments:**
-<!-- I will add comments about Lab 1 here -->
+
+Good work!
 
 **Checklist:**
-- [ ] All instructions followed
-- [ ] Code runs without errors
-- [ ] Required outputs/visualizations present
+- [x] All instructions followed
+- [x] Code runs without errors
+- [x] Required outputs/visualizations present
 - [ ] Code is well-commented and organized
 - [ ] Additional requirements met (if any)
 
